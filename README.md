@@ -26,8 +26,8 @@ Step 7
 Print the Output and end the program.
 
 ## Program:
-## DEVELOPED BY: ALLEN JOVETH P
-## REGISTER NUMBER : 212223240007
+## DEVELOPED BY: VEERARAGAVAN V
+## REGISTER NUMBER : 212223230237
 
 ## CUBE PLAYER:
 
@@ -69,10 +69,8 @@ public class Coding : MonoBehaviour
 
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/f2c5571f-fb71-4237-ad9e-71d238dc9be9)
-
-![image](https://github.com/user-attachments/assets/88358f22-e6cb-47f3-ad45-0f09da62a1fb)
-
+![alt text](<Screenshot 2025-05-27 221308.png>)
+![alt text](<Screenshot 2025-05-27 221316.png>)
 
 
 ## Result:
